@@ -1,0 +1,46 @@
+body{
+	background: #E6E6FA url('imagens/fundo.jpg');
+	font: 16px Courier New, Monaco, monospace ;
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu {
+	background: #E6E6FA;
+	border: 4px dotted white;
+	padding: 19px;
+}
+
+#conteudo{
+	background: #E0FFFF;
+	padding: 10px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+a { 
+
+	color: darkmagenta;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+
+.centralizar {
+	text-align: center ;
+}
+
+.img-fotos{
+	border: 10px solid deeppink;
+
+}
+
+h1{
+	color: darkmagenta;
+}
